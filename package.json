@@ -1,0 +1,23 @@
+{
+  "name": "Exercicio-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiagol/Exercicio-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiagol/Exercicio-ws/issues"
+  },
+  "homepage": "https://github.com/Hiagol/Exercicio-ws#readme",
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
